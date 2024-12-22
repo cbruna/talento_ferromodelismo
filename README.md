@@ -11,11 +11,11 @@ Posee formularios de contacto y de suscripción a newsletter.
 - Hace uso de facilidades HTTP POST de Formspree, asociada a cuenta personal
 
 22/12 (ENTREGA FINAL)
-HTML estructura semántica header main footer
-contenido real
-contenido textual
-imágenes
-CSS, colores, estilos márgenes, espaciados, flexbox
-carrito de compras 
-Formspree
+- HTML estructura semántica header main footer
+- contenido real
+- contenido textual
+- imágenes
+- CSS, colores, estilos márgenes, espaciados, flexbox
+- carrito de compras con código JS 
+- Formspree
   
